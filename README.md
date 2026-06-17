@@ -170,7 +170,7 @@ Este projeto é uma Prova de Conceito acadêmica. A arquitetura AWS é documenta
 
 ## Autor
 
-- **Nome completo:** [PREENCHER]
-- **RM:** [PREENCHER]
+- **Nome completo:** Guilherme Filartiga
+- **RM:** 568034
 - **Curso:** Inteligência Artificial — FIAP
 - **Entrega:** SUB Global Solution 2026.1
