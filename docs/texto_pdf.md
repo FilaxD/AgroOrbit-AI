@@ -190,5 +190,5 @@ A solução é escalável e pode ser evoluída com dados reais de satélite, int
 
 ## 9. Links
 
-- **Repositório GitHub:** [PREENCHER]
-- **Vídeo demonstrativo (YouTube — Não Listado):** [PREENCHER]
+- **Repositório GitHub:** https://github.com/FilaxD/AgroOrbit-AI
+- **Vídeo demonstrativo (YouTube — Não Listado):** https://youtu.be/pC7wsWjIKJ4
